@@ -2,7 +2,7 @@
 ## 🦆 Kaggle 
 | kaggle | Info - Model Page
 | --- | --- |
-[![Open In Colab](null)](null) | stable-vicuna-13B-GPTQ-4bit-128g <br /> https://huggingface.co/CarperAI/stable-vicuna-13b-delta
+[![Open In Kaggle](null)](null) | stable-vicuna-13B-GPTQ-4bit-128g <br /> https://huggingface.co/CarperAI/stable-vicuna-13b-delta
 ## Text Generation Web UI
 [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (Thanks to @oobabooga ❤)
 
