@@ -2,7 +2,7 @@
 ## 🦆 Kaggle 
 | kaggle | Info - Model Page
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/stable-vicuna-13B-GPTQ-4bit-128g.ipynb) | stable-vicuna-13B-GPTQ-4bit-128g <br /> https://huggingface.co/CarperAI/stable-vicuna-13b-delta
+[![Open In Colab](null)](null) | stable-vicuna-13B-GPTQ-4bit-128g <br /> https://huggingface.co/CarperAI/stable-vicuna-13b-delta
 ## Text Generation Web UI
 [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (Thanks to @oobabooga ❤)
 
